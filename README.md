@@ -4,7 +4,9 @@ En el dashboard se incluyeron el total de ventas por categoría de productos, as
 Primero vamos a aclarar tres conceptos principales, ya que alrededor de ellos gira el análisis del dashboard:
 
 •	Consumer (consumidor) se refiere al uso personal, 
+
 •	Corporate (corporativo) se refiere al uso comercial y 
+
 •	Home office (oficina en casa) se refiere a un espacio de trabajo en un hogar.
 
 
